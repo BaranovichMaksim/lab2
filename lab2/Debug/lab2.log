@@ -1,0 +1,5 @@
+﻿  lab2.cpp
+C:\Users\Maks\Documents\НГТУ\информатика\лабы 3 семак\lab2\lab2\lab2.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Maks\Documents\НГТУ\информатика\лабы 3 семак\lab2\lab2\lab2.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Maks\Documents\НГТУ\информатика\лабы 3 семак\lab2\lab2\Tests.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  lab2.vcxproj -> C:\Users\Maks\Documents\НГТУ\информатика\лабы 3 семак\lab2\Debug\lab2.exe
